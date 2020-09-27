@@ -12,11 +12,11 @@ Sistema de Grid de 12 colunas desenvolvido com Styled-components, utilizando Fle
 
 ## Descrição
 O sistema possui algumas variáveis configuráveis:
-l_device = 960 Breakpoint => Desktop
-m_device = 760 => Breakpoint Tablet
-s_device = 480 => Breakpoint mobile
-gutter = 20 => Espaçamento entre as colunas
-columns = 12 => Quantidade de colunas
+l_device = 960 Breakpoint => Desktop <br>
+m_device = 760 => Breakpoint Tablet <br>
+s_device = 480 => Breakpoint mobile <br>
+gutter = 20 => Espaçamento entre as colunas <br>
+columns = 12 => Quantidade de colunas <br>
 
 ### Estrutura Básica
 <img src="https://github.com/Cahmoraes/React-Grid/blob/master/src/assets/estrutura-basica.png">
@@ -24,7 +24,8 @@ columns = 12 => Quantidade de colunas
 // Ocupa 4 colunas no desktop, 6 colunas no tablet e 12 no mobile
 
 <b>Exemplo com Row:</b>
-<mg src="https://github.com/Cahmoraes/React-Grid/blob/master/src/assets/row.png">
+
+<img src="https://github.com/Cahmoraes/React-Grid/blob/master/src/assets/row.png">
  
 <b>Propriedades:</b>
 Define a quantidade de coluna que serão exibitas nas resoluções.
