@@ -1,6 +1,6 @@
 import React from 'react';
 import GlobalStyles from './styles/global'
-import { Container, Row, Column } from './styles/grid/'
+import { Container, Row, Column } from './components/Grid'
 
 function App() {
   return (
