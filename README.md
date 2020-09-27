@@ -8,6 +8,8 @@
 
 Sistema de Grid de 12 colunas desenvolvido com Styled-components, utilizando Flexbox.
 
+<img src="https://github.com/Cahmoraes/React-Grid/blob/master/src/assets/demo.gif">
+
 ## :computer: Tecnologias utilizadas
 
 - [typescript](https://www.typescriptlang.org/)
