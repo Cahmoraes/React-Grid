@@ -18,12 +18,22 @@ s_device = 480 => Breakpoint mobile
 gutter = 20 => Espaçamento entre as colunas
 columns = 12 => Quantidade de colunas
 
-### Básica estrutura
-
+### Estrutura Básica
+<img src="https://github.com/Cahmoraes/React-Grid/blob/master/src/assets/estrutura-basica.png">
 
 // Ocupa 4 colunas no desktop, 6 colunas no tablet e 12 no mobile
 
 <b>Exemplo com Row:</b>
+<mg src="https://github.com/Cahmoraes/React-Grid/blob/master/src/assets/row.png">
+ 
+<b>Propriedades:</b>
+Define a quantidade de coluna que serão exibitas nas resoluções.
+Propriedade | Valor
+desktop: Quantidade de colunas (number)
+tablet: Quantidade de colunas (number)
+mobile: Quantidade de colunas (number)
+
+<b>Obs.:</b> Se não for informado a quantidade de colunas, serão ocupados 12 colunas.
 
 ## :computer: Tecnologias utilizadas
 
